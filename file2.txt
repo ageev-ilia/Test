@@ -1,2 +1,2 @@
 random text for file2.txt
-
+new changes
